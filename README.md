@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Derek 👋
+
+I am a former Network, System, and Security Engineer / Jack-of-all-Trades with a background in Microsoft Server environments, Cisco Networking & Security, as well as various work in Red and Blue Teams in MSPs/MSSPs throughout Illinois, USA.
+
+At present, I am a Cloud Engineer learning everything I can about the Microsoft Azure environment, automation in Microsoft Azure, JSON & ARM Templates, Terraform, and scripting in PowerShell and Python.
 
 <!--
 **seedsofchaos/seedsofchaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
