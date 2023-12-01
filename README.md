@@ -5,7 +5,7 @@ I am a former Network, System, and Security Engineer / Jack-of-all-Trades with a
 At present, I am a Cloud Engineer learning everything I can about the Microsoft Azure environment, automation in Microsoft Azure, JSON & ARM Templates, Terraform, scripting in PowerShell and Python, and just beginning to dip my toes into the AWS ecosystem.
 
 - 🔭 I’m currently working on setting up ARM Templates and deploying in my Azure test environment
-- 🌱 I’m currently learning AWS CCP and SAA certification material (studying with resources from Adrian Cantril, Cloud Vikings, and Be a Better Dev)
+- 🌱 I’m currently learning AWS SAA certification material (studying with resources from Adrian Cantril, Cloud Vikings, and Be a Better Dev)
 - 💬 Ask me about Cisco Networking, Microsoft Server, SonicWall Firewalls, Microsoft Exchange, MSP/MSSP Operations, SMB IT/IS, Learning Cloud
 - 📫 Reach me on LinkedIn
 
