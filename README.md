@@ -2,10 +2,10 @@
 
 I am a former Network, System, and Security Engineer / Jack-of-all-Trades with a background in Microsoft Server environments, Cisco Networking & Security, as well as various work in Red and Blue Teams in MSPs/MSSPs throughout Illinois, USA.
 
-At present, I am a Cloud Engineer learning everything I can about the Microsoft Azure environment, automation in Microsoft Azure, JSON & ARM Templates, Terraform, scripting in PowerShell and Python, and just beginning to dip my toes into the AWS ecosystem.
+At present, I am a Cloud Engineer learning everything I can about the Azure and AWS Clouds, Terraform, scripting and automation in the cloud, Linux Administration, and how-to properly scale enterprise backups in cloud environments.
 
-- 🔭 I’m currently working on setting up ARM Templates and deploying in my Azure test environment
-- 🌱 I’m currently learning AWS SAA certification material (studying with resources from Adrian Cantril, Cloud Vikings, and Be a Better Dev)
+- 🔭 I’m currently working on several development environments that I'm deploying via Terraform to AWS and Azure and working on some Docker projects in those environments
+- 🌱 Having recently earned by AWS SAA certification, I'm currently thinking about my next certification pathway and am leaning towards the Hashicorp Terraform Associate certification or the Azure AZ-500
 - 💬 Ask me about Cisco Networking, Microsoft Server, SonicWall Firewalls, Microsoft Exchange, MSP/MSSP Operations, SMB IT/IS, Learning Cloud
 - 📫 Reach me on LinkedIn
 
